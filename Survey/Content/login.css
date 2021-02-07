@@ -1,0 +1,53 @@
+﻿body {
+    background: rgba(255,255,255,0.2) url('../Content/back.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+.container {
+    background: rgba(0,0,0,0.65);
+    margin-top: 75px;
+    padding-bottom: 25px;
+    width: 500px;
+    border-radius: 5px;
+}
+label {
+    color: #fff;
+}
+#loginbox {
+    margin: 25px 0 25px 0;
+}
+
+#loginbox input[type=text] {
+    height: 50px;
+    margin: 0;
+    padding: 0 20px;
+}
+
+#loginbox input[type=password] {
+    height: 50px;
+    margin: 0;
+    padding: 0 20px;
+}
+
+#signupbox input[type=text] {
+    height: 50px;
+    margin: 0;
+    padding: 0 20px;
+}
+
+#signupbox input[type=password] {
+    height: 50px;
+    margin: 0;
+    padding: 0 20px;
+}
+
+#loginbox button {
+    height:50px;
+}
+
+#signupbox button {
+    height:50px;
+}
+
+#signupbox {
+    margin: 25px 0 25px 0;
+}
